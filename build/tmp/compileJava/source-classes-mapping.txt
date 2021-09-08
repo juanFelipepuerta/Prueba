@@ -1,0 +1,12 @@
+co/com/traductor/datadriven/tasks/OpenUp.java
+ co.com.traductor.datadriven.tasks.OpenUp
+co/com/traductor/datadriven/userinterface/PaginaLocalizadore.java
+ co.com.traductor.datadriven.userinterface.PaginaLocalizadore
+co/com/traductor/datadriven/userinterface/traductorPage.java
+ co.com.traductor.datadriven.userinterface.traductorPage
+co/com/traductor/datadriven/model/GoogleTraslateData.java
+ co.com.traductor.datadriven.model.GoogleTraslateData
+co/com/traductor/datadriven/questions/Larespuesta.java
+ co.com.traductor.datadriven.questions.Larespuesta
+co/com/traductor/datadriven/tasks/Traducir.java
+ co.com.traductor.datadriven.tasks.Traducir
